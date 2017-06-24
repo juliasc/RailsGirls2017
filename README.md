@@ -1,1 +1,1 @@
-# RailsGirls2017
+# Rails Girls 2017 Juju
